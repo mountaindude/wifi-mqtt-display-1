@@ -2,3 +2,6 @@
 .piolibdeps
 .clang_complete
 .gcc-flags.json
+
+# Include file for keeping wifi credentials and other secrets
+secret.h

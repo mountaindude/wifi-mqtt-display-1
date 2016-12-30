@@ -6,8 +6,7 @@
 #include <InvertedTM1638.h>
 
 #ifndef WIFI_SSID
-  #define WIFI_SSID       ""
-  #define WIFI_PASSPHRASE ""
+#include <secret.h>
 #endif
 
 CMMC_OTA ota;
